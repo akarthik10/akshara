@@ -2,7 +2,7 @@
 ## from Sydney Sanskrit School
 
 This page hosts download links for Sydney Sanskrit School's AKSHARA app.
-Current Version: 0.0.1 beta
+Current Version: 0.0.2 beta
 
 ## Windows
 Download: [Akshara v0.0.2 beta](https://github.com/akarthik10/akshara/blob/master/Windows/akshara.exe?raw=true)
