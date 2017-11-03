@@ -10,7 +10,7 @@ Download: [Akshara v0.0.4 beta](https://github.com/akarthik10/akshara/blob/maste
 Download the installer and double-click on it to start installation. Follow on-screen instructions.
 
 
-## Mac OSX
+## Mac OS
 Download: [Akshara v0.0.4 beta](https://github.com/akarthik10/akshara/blob/master/Mac/Akshara.dmg?raw=true)
 ### Instructions:
 Download the installer and double-click on it to open. Then, double click on Akshara icon to open, or drag and drop to Applications to install.
